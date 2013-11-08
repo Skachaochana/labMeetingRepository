@@ -8,3 +8,6 @@ f=20
 print a+b
 
 #add your name and what you have done
+
+#Shana Kachaochana
+print a^2 - b*f + (f-e)
